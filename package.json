@@ -23,6 +23,7 @@
   "homepage": "https://github.com/LongLiveCHIEF/gitlab-mgmt",
   "dependencies": {
     "bluebird": "^2.2.1",
-    "csv": "^0.4.0"
+    "csv": "^0.4.0",
+    "email": "^0.2.6"
   }
 }
