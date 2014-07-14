@@ -1,0 +1,28 @@
+{
+  "name": "gitlab-user-mgmt",
+  "version": "0.0.0",
+  "description": "a user management node client for gitlab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LongLiveCHIEF/gitlab-user-mgmt.git"
+  },
+  "keywords": [
+    "gitlab",
+    "gitlab-api",
+    "gitlab-users"
+  ],
+  "author": "Brian Vanderbusch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LongLiveCHIEF/gitlab-user-mgmt/issues"
+  },
+  "homepage": "https://github.com/LongLiveCHIEF/gitlab-user-mgmt",
+  "dependencies": {
+    "csv": "^0.4.0",
+    "gitlab": "^0.8.6"
+  }
+}
