@@ -13,4 +13,3 @@ var gitlab = Promise.promisifyAll(new (require('gitlab'))({
   token: config.gitlab.token
 }));
 
-
